@@ -19,9 +19,10 @@ Ring Oscillator
 - 5 LEDs
 
 ### Screenshots
-<img width="600" alt="Schematic" src="link"/>
-<img width="600" alt="PCB" src="link"/>
-<img width="600" alt="3D View" src="link"/>
+<img width="600" alt="Schematic" src="https://github.com/B0redChonker/Solder/blob/main/screenshots/Screenshot%202025-05-29%20171703.png"/>
+<img width="600" alt="PCB Front" src="https://github.com/B0redChonker/Solder/blob/main/screenshots/Screenshot%202025-05-29%20171623.png"/>
+<img width="600" alt="PCB Back" src="https://github.com/B0redChonker/Solder/blob/main/screenshots/Screenshot%202025-05-29%20171636.png"/>
+<img width="600" alt="3D View" src="https://github.com/B0redChonker/Solder/blob/main/screenshots/Screenshot%202025-05-29%20171643.png"/>
 
 ### Slack username
 B0redChungus
