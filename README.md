@@ -19,6 +19,9 @@ Ring Oscillator
 - 5 LEDs
 
 ### Screenshots
+<img width="600" alt="Schematic" src="link"/>
+<img width="600" alt="PCB" src="link"/>
+<img width="600" alt="3D View" src="link"/>
 
 ### Slack username
 B0redChungus
