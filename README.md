@@ -25,4 +25,4 @@ Ring Oscillator
 <img width="600" alt="3D View" src="https://github.com/B0redChonker/Solder/blob/main/screenshots/Screenshot%202025-05-29%20171643.png"/>
 
 ### Slack username
-B0redChungus
+@B0redChungus
